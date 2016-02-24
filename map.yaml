@@ -410,6 +410,13 @@ Actors:
 Smudges:
 
 Rules:
+	LHUS:
+		ExternalCapturable:
+		ExternalCapturableBar:
+		RenderDetectionCircle:
+		DetectCloaked:
+			Range: 30c0
+			CloakTypes: Underwater
 
 Sequences:
 
