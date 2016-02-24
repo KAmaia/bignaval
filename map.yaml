@@ -417,6 +417,10 @@ Rules:
 		DetectCloaked:
 			Range: 30c0
 			CloakTypes: Underwater
+		Selectable:
+			Bounds: 24,48,0,-16
+		SelectionDecorations:
+			VisualBounds: 24,48,0,-16
 
 Sequences:
 
